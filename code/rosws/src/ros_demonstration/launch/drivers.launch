@@ -1,0 +1,5 @@
+<launch>
+<node name="group_d_imu_driver" pkg="ros_demonstration" type="imu_driver.py" output="screen" />
+<node name="group_d_lidar_driver" pkg="ros_demonstration" type="lidar_driver.py" output="screen" />
+<node name="group_d_motor_driver" pkg="ros_demonstration" type="motor_driver.py" output="screen" />
+</launch>

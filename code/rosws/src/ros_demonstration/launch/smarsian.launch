@@ -1,0 +1,9 @@
+<launch>
+    <!-- <param name="publish_state" value='false' type='boolean'/>  -->
+
+
+  
+  <node name="smarsian" pkg="ros_demonstration" type="main.py" output="screen" respawn="true" />
+  
+</launch>
+
