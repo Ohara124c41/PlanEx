@@ -1,0 +1,5 @@
+.vscode
+*.pyc
+/code/rosws/devel
+/code/rosws/build
+code/rosws/install/
